@@ -4,12 +4,12 @@
 
 1. Clone the repo:
    `git clone https://github.com/parafoxia/python-scripts` for apt-get package manager
-   `git clone https://github.com/Somil-Gupta/python-scripts-yum` for yum package manger
-2. Make the scripts executable:
+   `git clone https://github.com/Somil-Gupta/python-scripts-yum` for yum package manager
+3. Make the scripts executable:
    `chmod +x python-scripts/install-python && chmod +x python-scripts/uninstall-python`
-3. Add the scripts to your path by adding the following to your .bashrc/.zshrc/etc.:
+4. Add the scripts to your path by adding the following to your .bashrc/.zshrc/etc.:
    `PATH=$PATH:/path/to/python-scripts`
-4. Apply the changes:
+5. Apply the changes:
    `source .bashrc`
 
 ## Installing Python
